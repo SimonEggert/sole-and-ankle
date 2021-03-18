@@ -37,6 +37,7 @@ const MainHeader = styled.div`
 const Nav = styled.nav`
   display: flex;
   gap: 48px;
+  flex: 2 1 auto;
 `;
 
 const NavLink = styled.a`
